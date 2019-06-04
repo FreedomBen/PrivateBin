@@ -143,7 +143,7 @@ endif;
 if ($PASSWORD):
 ?>
 					<div id="password" class="hidden">
-						<input type="password" id="passwordinput" placeholder="<?php echo I18n::_('Password (recommended)'); ?>" size="32" />
+						<input type="password" id="passwordinput" placeholder="<?php echo I18n::_('Password (optional)'); ?>" size="32" />
 					</div>
 <?php
 endif;
