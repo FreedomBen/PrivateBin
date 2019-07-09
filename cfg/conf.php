@@ -30,7 +30,8 @@ defaultformatter = "plaintext"
 ; syntaxhighlightingtheme = "sons-of-obsidian"
 
 ; size limit per paste or comment in bytes, defaults to 2 Mebibytes
-sizelimit = 2097152
+;sizelimit = 2097152
+sizelimit = 209715200
 
 ; template to include, default is "bootstrap" (tpl/bootstrap.php)
 template = "bootstrap"
